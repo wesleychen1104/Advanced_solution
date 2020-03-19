@@ -78,12 +78,12 @@ numbers.remove(3)
 # Code here
 
 data = {
-    "Alex": {100
-    },
-    "Kevin": {50
-    },
-    "Henry": {500
-    }
+    "Alex": 100
+    ,
+    "Kevin": 50
+    ,
+    "Henry": 500
+    
 }
 
 print(data)

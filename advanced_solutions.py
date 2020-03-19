@@ -77,7 +77,7 @@ numbers.remove(3)
 
 # Code here
 
-data = {
+transactions = {
     "Alex": 100
     ,
     "Kevin": 50
@@ -86,7 +86,7 @@ data = {
     
 }
 
-print(data)
+print(transactions)
 
 
 
